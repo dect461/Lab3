@@ -44,6 +44,7 @@ public float timeBetweenEggDrops = 1f;
 ###  Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 
 - Добавил все параметры к отдельным сценам в дракона. Оставил unitypackegs со сценами в форме.
+- таблица с данными параметров https://docs.google.com/spreadsheets/d/1e0qxyaknv3hYuLC--9aShPdmEwWXLFu1eiGsZ3ev_vo/edit?usp=sharing
 
 ## Задание 3
 ### Визуализировать данные из google-таблицы, и с помощью Python передавать в проект Unity. В Python данные также должны быть визуализированы.
